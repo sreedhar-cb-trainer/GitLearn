@@ -1,2 +1,1 @@
 This is a First Line in File.txt
-This is the second line in File.txt
